@@ -1,0 +1,19 @@
+img[alt=image2]{
+    height:300px;
+    width:500px;
+}
+a[href="youtube.com"]{
+    color: blueviolet;
+    font-size: larger;
+}
+
+span{
+    color: blue;
+    font-size: large;
+}
+
+div span{
+    /* color:red; */
+    color:inherit;
+    background-color: inherit;
+}

@@ -1,0 +1,37 @@
+.parent{
+    border:2px dashed green;
+    width:50%;
+    background-color: aqua;
+    padding: 20px;
+    margin:auto;
+    margin-top: 300px;
+    position:relative;
+
+}
+.box1{
+    padding: 20px;
+    border:2px dotted red;
+    margin:10px;
+    background-color: blueviolet;
+}
+.box2{
+    padding: 20px;
+    border:2px dotted red;
+    margin:20px;
+    background-color:cornflowerblue;
+    /* position:relative;
+    left: 400px;
+    top:100px; */
+    position:absolute;
+    top:10px;
+    left:20px;
+
+}
+
+.box3{
+    padding: 20px;
+    border:2px dotted red;
+    margin:20px;
+    background-color: coral;
+
+}
